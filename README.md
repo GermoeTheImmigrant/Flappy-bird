@@ -1,2 +1,2 @@
-# Flappy-bird
-A game about flappy bird
+# space ship
+A game about surviving
